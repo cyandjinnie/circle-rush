@@ -1,0 +1,1 @@
+clang++ Background.cpp Background.h Canvas.cpp Canvas.h Color.cpp Color.h Drawable.h Engine.cpp Engine.h Game.cpp GameObject.h SpinningCircles.cpp SpinningCircles.h Statics.h Particles.h Particles.cpp -lX11 -std=c++17

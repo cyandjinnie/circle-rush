@@ -1,0 +1,7 @@
+sandbox
+build
+cmake-build-debug
+.vscode
+*.gch
+.DS_Store
+.idea
